@@ -1,0 +1,35 @@
+_repo: Reconstruction-in-Philosophy_40089
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: http://en.wikipedia.org/wiki/John_Dewey
+description: '"The author presents an interpretation of the reconstruction of ideas
+  and ways of thought now going on in philosophy. While the lectures cannot avoid
+  revealing the marks of the particular standpoint of their author, the aim is to
+  exhibit the general contrasts between older and newer types of philosophic problems
+  rather than to make a partisan plea in behalf of any one specific solution of these
+  problems. Dewey has tried for the most part to set forth the forces which make intellectual
+  reconstruction inevitable and to prefigure some of the lines upon which it must
+  proceed"--Foreword. (PsycINFO Database Record (c) 2012 APA, all rights reserved).'
+gutenberg_issued: '2012-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40089'
+  lccn: '20017102'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'B'
+- !lcsh 'Philosophy'
+title: Reconstruction in Philosophy
+url: http://www.gutenberg.org/ebooks/40089
